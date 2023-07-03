@@ -10,7 +10,7 @@ What are certain factors that may affect student's retention or dropout in acade
 
 ### Methodology Approach ###
 The methodology adopted during the course of this project include
-* Data collected through [Kaggle datasets]([https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches_(2010%E2%80%932019)](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)). 
+* Data collected through [Kaggle datasets](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention). 
 * Data processing and descriptive analysis
 * Exploratory Data Analysis using Python visualization tools to gain insights into the data and identify any patterns or trends.
 * Predictive analysis using Machine Learning Classification algorithms.
