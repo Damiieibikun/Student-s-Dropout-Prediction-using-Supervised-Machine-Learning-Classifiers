@@ -30,6 +30,7 @@ The methodology adopted during the course of this project include
 
 ### Findings/Results ###
 Through analysis, it is deduced that several factors are to be considered when predicting the students retention/dropout (not limited to):
+* Age at enrollment
 * Tuition fees up to date
 * Debt
 * Grades for Curricular units 1st and 2nd semester
