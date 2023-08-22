@@ -1,15 +1,19 @@
 # Prediction Analysis on Student's Dropout
-A Data science project on Predicting Student's dropout using Machine Learning classification models
+A Data science project on Predicting Students' dropout using Machine Learning classification models
 
 ### Introduction ###
-The goal of this project is to develop a predictive model using machine learning classification algorithms to identify students who are likely to drop out. By leveraging data on student demographics, academic performance, socio-economic factors, and other relevant variables, we aim to build a robust predictive model that can effectively forecast the likelihood of student dropping out. This model can then be used by educational institutions to allocate resources, implement early intervention strategies, and support at-risk students.
+The goal of this project is to develop a predictive model using machine learning classification algorithms to identify students who are likely to drop out. By leveraging data on student demographics, academic performance, socio-economic factors, and other relevant variables, the aim is to build a robust predictive model that can effectively forecast the likelihood of students dropping out. 
+
+The data gathered are from both internal and external sources, pulling information from different institutions. This data was drawn from various databases within universities and colleges. It covers student records spanning from the academic year 2008/2009 to 2018/2019.
+
+This model can then be used by educational institutions to allocate resources, implement early intervention strategies, and support at-risk students.
 
 ### Problem ###
 In today's educational landscape, student retention and success are of utmost importance for educational institutions. Identifying students who are at risk of dropping out and implementing timely interventions can greatly contribute to improving graduation rates and ensuring academic success. 
-What are certain factors that may affect student's retention or dropout in academic institutions?
+What are certain factors that may affect students' retention or dropout in academic institutions?
 
 ### Methodology Approach ###
-The methodology adopted during the course of this project include
+The methodology adopted during the course of this project includes:
 * Data collected through [Kaggle datasets](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention). 
 * Data processing and descriptive analysis
 * Exploratory Data Analysis using Python visualization tools to gain insights into the data and identify any patterns or trends.
@@ -29,14 +33,14 @@ The methodology adopted during the course of this project include
 * Comprehensive Jupyter notebooks containing codes and results
 
 ### Findings/Results ###
-Through analysis, it is deduced that several factors are to be considered when predicting the students retention/dropout (not limited to):
+Through analysis, it is deduced that several factors are to be considered when predicting the student's retention/dropout (not limited to):
 * Age at enrollment
 * Tuition fees up to date
 * Debt
 * Grades for Curricular units 1st and 2nd semester
 * Approved units for 1st and 2nd semester
 * Scholarship holders
-* Parents's occupation
+* Parents' occupation
 
 Out of five classification algorithms, the ones that performed best after several tries include:
 * Support Vector Classifiers
@@ -44,9 +48,10 @@ Out of five classification algorithms, the ones that performed best after severa
 * Logistic Regression
 
 
+
 # Appendix
 
-The table below gives a brief description for each column/field in the dataset
+The table below gives a brief description of each column/field in the dataset
 
 | S/N | Field | Description | Categories explained |
 | ----------- | ----------- | ----------- |----------- |
