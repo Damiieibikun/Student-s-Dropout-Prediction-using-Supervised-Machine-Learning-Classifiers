@@ -25,7 +25,8 @@ The methodology adopted during the course of this project includes:
     * Numpy
 * Visualization Libraries
     * Matplotlib
-    * Seaborn
+    * Plotly express
+    * Plotly Graph Objects
 * Machine Learning Libraries
     * Scikit Learn
 
@@ -37,15 +38,16 @@ Through analysis, it is deduced that several factors are to be considered when p
 * Age at enrollment
 * Tuition fees up to date
 * Debt
-* Grades for Curricular units 1st and 2nd semester
-* Approved units for 1st and 2nd semester
+* Nationality
+* Displacement
+* Martial status
 * Scholarship holders
 * Parents' occupation
 
 Out of five classification algorithms, the ones that performed best after several tries include:
 * Support Vector Classifiers
 * Random Forest
-* Logistic Regression
+  
 
 
 
