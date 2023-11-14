@@ -1,4 +1,4 @@
-# Prediction Analysis on Student's Dropout
+# Student's Dropout Prediction using Supervised Machine Learning Classifiers
 A Data science project on Predicting Students' dropout using Machine Learning classification models
 
 ### Introduction ###
@@ -34,20 +34,16 @@ The methodology adopted during the course of this project includes:
 * Comprehensive Jupyter notebooks containing codes and results
 
 ### Findings/Results ###
-Through analysis, it is deduced that several factors are to be considered when predicting the student's retention/dropout (not limited to):
+Through analysis, it is deduced that two factors are to be considered when predicting the student's retention/dropout (not limited to):
 * Age at enrollment
+* Course
+Others that showed significance are:
 * Tuition fees up to date
-* Debt
-* Nationality
-* Displacement
-* Martial status
-* Scholarship holders
-* Parents' occupation
+* 1st and 2nd Semester performance
+* Application mode
 
-Out of five classification algorithms, the ones that performed best after several tries include:
-* Support Vector Classifiers
-* Random Forest
-  
+Out of five classification algorithms, the classifier that performed best after several tries was Decision Tree with an 83% accuracy and 0.78 AUC score
+
 
 
 
